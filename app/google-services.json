@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571125724865",
+    "firebase_url": "https://monkhood-54740-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "monkhood-54740",
+    "storage_bucket": "monkhood-54740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571125724865:android:069051f537fda70d9b4640",
+        "android_client_info": {
+          "package_name": "com.example.monkhood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571125724865-t8b88k9vbu1h1gvtitqgbi8776944q48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMMyXtoP9q28s4lst73wp2Fx66RGKYZos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571125724865-t8b88k9vbu1h1gvtitqgbi8776944q48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
